@@ -1,5 +1,5 @@
 
-# AR Space Defender
+# AsteroidAR
 
 Welcome to AR Space Defender, an exciting augmented reality (AR) game built using Unity AR Foundation for the Android platform. Immerse yourself in an outer space scene where you must protect Earth from incoming asteroids and UFO saucers. Earn points and mystery prizes by successfully destroying them.
 
